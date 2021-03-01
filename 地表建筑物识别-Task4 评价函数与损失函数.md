@@ -15,7 +15,6 @@
         <th colspan="2" >预测结果</th>
     </tr>
     <tr>
-        <td></td>
         <td>正例</td>
         <td>反例</td>
     </tr>
